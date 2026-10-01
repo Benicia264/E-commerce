@@ -1,0 +1,5 @@
+DB_USER= nom_utilisateur
+DB_PASSWORD= mot_de_passe_postgres
+DB_PORT= 5432
+DB_HOST= localhost
+DB_NAME= nom_base_donnée
