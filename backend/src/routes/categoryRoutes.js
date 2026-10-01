@@ -10,6 +10,6 @@ router.get('/', getCategories)
 router.get('/:id', getCategoryById)
 router.post('/', createCategory)
 router.put('/', updateCategory)
-eouter.delete('/', deleteCategory)
+router.delete('/', deleteCategory)
 
 export default router
